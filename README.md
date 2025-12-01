@@ -27,6 +27,14 @@
 # -output.php
 <img width="583" height="223" alt="image" src="https://github.com/user-attachments/assets/a30f2349-72f2-49e1-8334-29d83c771e12" />
 
+# http://localhost/lab10_php_oop/mobil.php
+<img width="531" height="186" alt="image" src="https://github.com/user-attachments/assets/63f956f2-70aa-4e66-ab74-d42ef11f077b" />
+
+# http://localhost/lab10_php_oop/form_input.php
+<img width="686" height="181" alt="image" src="https://github.com/user-attachments/assets/c0f4ebbb-11a6-4c4f-8927-12d1bd9cd58a" />
+
+
+
 
 
 
