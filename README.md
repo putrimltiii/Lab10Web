@@ -22,7 +22,7 @@
 <img width="613" height="642" alt="image" src="https://github.com/user-attachments/assets/93f8c003-bb43-4456-96d5-046fab3cfda0" />
 
 # -config.php
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/b5a2b288-85f1-4315-b9f2-3e0422444737" />
+<img width="571" height="244" alt="image" src="https://github.com/user-attachments/assets/0cdd1840-36dc-4985-8773-3bba45aaff64" />
 
 # -output.php
 <img width="583" height="223" alt="image" src="https://github.com/user-attachments/assets/a30f2349-72f2-49e1-8334-29d83c771e12" />
